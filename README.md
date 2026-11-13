@@ -302,4 +302,4 @@ Bu görselleri repoya `images/` klasörü altında ekleyip README'ye şu şekild
 - S. Abudalou et al., *Improving Prostate Gland Segmentation Using Transformer based Architectures* — https://arxiv.org/abs/2506.14844
 - CRTA-PRONOBIS Prostate Phantom Ultrasound Dataset — https://www.kaggle.com/datasets/lukaiktar/crta-pronobis-prostate-phantom-ultrasound-dataset
 
-Ayrıntılı literatür listesi için proje raporuna bakınız.
+
