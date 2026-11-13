@@ -2,8 +2,7 @@
 
 CRTA-PRONOBIS prostat fantom ultrason veri seti üzerinde **ViT**, **Vanilla Transformer** ve **MetaFormer** ailesi (PoolFormer, CaFormer, ConvFormer, RandFormer, IdentityFormer, FNet) mimarilerini kapsayan **20 model konfigürasyonunun** segmentasyon performansını karşılaştıran bir derin öğrenme projesi. Ayrıca **7 optimizer** ve **8 aktivasyon fonksiyonu** için ablasyon deneyleri yapılmıştır.
 
-> Bandırma Onyedi Eylül Üniversitesi, Bilgisayar Mühendisliği (Tezli Yüksek Lisans) – Derin Öğrenme dersi projesi.
-> Hazırlayan: **Cem Er**
+
 
 ---
 
